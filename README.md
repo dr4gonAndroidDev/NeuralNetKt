@@ -1,2 +1,2 @@
 # NeuralNetKt
-basic NueralNet written Kotlin
+basic NeuralNet written Kotlin
